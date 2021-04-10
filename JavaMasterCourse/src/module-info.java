@@ -1,0 +1,2 @@
+module udemyJavaMasterCourse {
+}

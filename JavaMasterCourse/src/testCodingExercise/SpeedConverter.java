@@ -1,4 +1,4 @@
-package codingExercise;
+package testCodingExercise;
 
 public class SpeedConverter {
 
